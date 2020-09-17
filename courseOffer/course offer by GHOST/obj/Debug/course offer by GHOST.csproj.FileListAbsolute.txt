@@ -1,0 +1,14 @@
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\bin\Debug\course offer by GHOST.exe.config
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\bin\Debug\course offer by GHOST.exe
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\bin\Debug\course offer by GHOST.pdb
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course offer by GHOST.csprojResolveAssemblyReference.cache
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.admin.resources
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.index.resources
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.Properties.Resources.resources
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.students.resources
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course offer by GHOST.csproj.GenerateResource.Cache
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course offer by GHOST.exe
+c:\users\marzu\onedrive\documents\visual studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course offer by GHOST.pdb
+C:\Users\marzu\OneDrive\Documents\Visual Studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.delete.resources
+C:\Users\marzu\OneDrive\Documents\Visual Studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.insert.resources
+C:\Users\marzu\OneDrive\Documents\Visual Studio 2012\Projects\course offer by GHOST\course offer by GHOST\obj\Debug\course_offer_by_GHOST.update.resources
