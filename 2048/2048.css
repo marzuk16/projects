@@ -1,0 +1,56 @@
+body{
+	background-color: #E8E8FF;
+}
+
+#fstrow{
+	margin-top:50px;
+	height: 60px;
+}
+
+label{
+	float: left;
+	color: #cc0000;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#logo{
+	margin-left:460px;
+}
+
+#text{
+	margin-left:70px;
+}
+.cell{
+    font-size:20px;
+    border-radius:5px;
+    color:white;
+    height:60px;
+    width:40px;
+    text-align:center;
+}
+    
+button{
+    font-size:200%;
+    width:60px;
+    height:60px;
+}
+
+#control{
+    text-align:center;
+}
+
+table{
+    background: #000000;
+    border-radius:10px;
+    border: 2px solid #000000;
+	width:400px;
+    margin-left:460px;
+	margin-bottom: 30px;
+}
+
+#blank{
+    visibility:hidden;
+    width:60px;
+    height:60px;
+}

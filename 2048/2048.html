@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>2048</title>
+		<link rel="stylesheet" href="2048.css">
+		<script src="2048.js"></script>
+	</head>
+	 
+	<body onload="main()">
+		
+		<div id="fstrow">
+			<label id="logo">2048</label>
+			<!-- <label id="text">Score: </label>
+			<label id="score"></label> -->
+		</div>
+		
+		<div id="sndrow">
+			<table id="table">
+				
+				<tr>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+				</tr>
+				<tr>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+				</tr>
+				<tr>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+				</tr>
+				<tr>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+					<td class="cell"></td>
+				</tr>
+				
+			</table>
+		</div>
+		
+		<div id="control">
+		   <button id="up" onclick="play(1)">&#8679</button><br/>
+		   <button id="left" onclick="play(2)">&#8678</button>
+		   <button id="blank">&#8746</button>
+		   <button id="right" onclick="play(3)">&#8680</button><br/>
+		   <button id="down" onclick="play(4)">&#8681</button>
+		</div>
+		
+	</body>
+	
+</html>
